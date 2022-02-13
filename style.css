@@ -1,0 +1,132 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.text-main {
+  color: #8490FF;
+}
+
+.bg-main {
+  background-color: #8490FF;
+}
+
+.text-h {
+  font-size: 58px;
+  font-weight: 600;
+  text-align: center;
+}
+
+/* nav bar start */
+
+.nav-image {
+  width: 70px;
+}
+
+.nav-manu {}
+
+/* nav bar end */
+
+/* banner section statrt */
+
+.
+/* banner section end */
+
+.banner-secton {}
+
+.banner-secton h3 {}
+
+.banner-secton h1 {}
+
+.banner-secton p {}
+
+.banner-secton a {}
+
+/* about-section-content */
+
+.pricing-table {
+  background-color: #f0e1ff;
+}
+
+.about-section-content {}
+
+.about-section-content h5 {}
+
+.about-section-content h1 {}
+
+.about-section-content p {}
+
+.about-section-content a {}
+
+/* pricing teable */
+
+.pricing-cards {}
+
+.p-card {}
+
+.p-card .card {
+  border: none;
+}
+
+.p-card .spann {
+  font-size: 57px;
+  display: inline-block;
+  width: 100px;
+  margin: 0px auto 32px;
+  font-weight: 600;
+  background-color: #f0e1ff;
+  border-radius: 50%;
+  height: 100px;
+  line-height: 100px;
+  color: #000;
+}
+
+.p-card h2 {
+  font-size: 21px;
+  padding: 10px 0px;
+}
+
+.p-card h3 {
+  font-size: 18px;
+}
+
+.p-card span a {
+  background-color: #8490FF;
+  color: #fff;
+}
+
+/* user card */
+
+.user-care {
+  /*! padding: 8px; */
+  margin-top: 97px;
+}
+
+.user-care img {
+  width: 106px;
+  /*! margin-top: -79px; */
+  margin: -55px auto auto 16px;
+}
+
+.user-care h1 {
+  font-size: 27px;
+  margin-bottom: 0px;
+}
+
+.user-care h3 {
+  font-size: 18px;
+}
+
+.user-care p {
+  font-size: 13px;
+  padding: 10px 10px;
+}
+
+.user-care span {
+  margin-bottom: 30px;
+}
+
+.user-care span a {}
